@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/stemmaxxer",
 	"channels": {
 		"beta": {
-			"version": "2.0.0-beta.12",
+			"version": "2.0.0-beta.13",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.2",
-			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.12.zip",
+			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.13.zip",
 			"sections": {
-				"changelog": "<h4>2.0.0-beta.12</h4><p>STEMMAXXER now updates itself from its own GitHub release channel — new builds appear as normal one-click updates in wp-admin (with check-now, beta/stable channel switch, and one-click rollback on the Plugins screen).</p>"
+				"changelog": "<h4>2.0.0-beta.13</h4><p>Pipeline proof build — the first version delivered end-to-end through the GitHub update channel (no functional changes). If you are reading this in the Workbench, the one-click update worked.</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "2.0.0-beta.13",
+			"released": "2026-07-19",
+			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.13.zip"
+		},
 		{
 			"version": "2.0.0-beta.12",
 			"released": "2026-07-19",
