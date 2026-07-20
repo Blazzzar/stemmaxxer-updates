@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/stemmaxxer",
 	"channels": {
 		"beta": {
-			"version": "2.0.0-beta.14",
+			"version": "2.0.0-beta.15",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.2",
-			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.14.zip",
+			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.15.zip",
 			"sections": {
-				"changelog": "<h4>2.0.0-beta.14</h4><p>QoL round (no audio-engine changes).</p>"
+				"changelog": "<h4>2.0.0-beta.15</h4><p>Desktop util chips + self-hosted fonts (no audio-engine changes).</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "2.0.0-beta.15",
+			"released": "2026-07-20",
+			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.15.zip"
+		},
 		{
 			"version": "2.0.0-beta.14",
 			"released": "2026-07-20",
