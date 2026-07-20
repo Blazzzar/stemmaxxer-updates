@@ -4,17 +4,22 @@
 	"homepage": "https://github.com/Blazzzar/stemmaxxer",
 	"channels": {
 		"beta": {
-			"version": "2.0.0-beta.13",
+			"version": "2.0.0-beta.14",
 			"requires": "5.5",
 			"tested": "6.8",
 			"requires_php": "7.2",
-			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.13.zip",
+			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.14.zip",
 			"sections": {
-				"changelog": "<h4>2.0.0-beta.13</h4><p>Pipeline proof build — the first version delivered end-to-end through the GitHub update channel (no functional changes). If you are reading this in the Workbench, the one-click update worked.</p>"
+				"changelog": "<h4>2.0.0-beta.14</h4><p>QoL round (no audio-engine changes).</p>"
 			}
 		}
 	},
 	"releases": [
+		{
+			"version": "2.0.0-beta.14",
+			"released": "2026-07-20",
+			"download_url": "https://blazzzar.github.io/stemmaxxer-updates/zips/stemmaxxer-v2.0.0-beta.14.zip"
+		},
 		{
 			"version": "2.0.0-beta.13",
 			"released": "2026-07-19",
